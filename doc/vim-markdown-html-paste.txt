@@ -1,0 +1,27 @@
+*vim-markdown-html-paste.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                              *vim-markdown-html-paste*
+
+    1. Intro .................................. |vim-markdown-html-paste-intro|
+    2. Requirements .................... |vim-markdown-html-paste-requirements|
+    3. Usage .................................. |vim-markdown-html-paste-usage|
+    4. Licence .............................. |vim-markdown-html-paste-licence|
+===============================================================================
+1. Intro                                        *vim-markdown-html-paste-intro*
+
+Overview of plugin
+
+2. Requirements                          *vim-markdown-html-paste-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                        *vim-markdown-html-paste-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                    *vim-markdown-html-paste-licence*
+
+This is open source make sure to include a licence
+
+vim:ft=help
